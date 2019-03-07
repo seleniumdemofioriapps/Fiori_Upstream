@@ -1,5 +1,8 @@
 package com.fiori.qa.pages;
 
-public class LoginPage {
+import com.fiori.qa.base.TestBase;
 
+public class LoginPage extends TestBase{
+
+	
 }
